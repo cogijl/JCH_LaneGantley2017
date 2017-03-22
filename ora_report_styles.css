@@ -1,0 +1,12 @@
+img { width:100%; }
+table { width:100%; border: 1px solid darkgrey; padding: 3px;	border-collapse: collapse; }
+td { border: 1px solid darkgrey; padding: 5px; text-align:left; }
+th { border: 1px solid darkgrey; padding: 5px; text-align:left; background-color:lightgrey }
+table.measures-ranked { border:0; }
+table.measures-context { width:auto; border:0; }
+.measures-context td { border:0; }
+.measures-context td:nth-child(odd) { font-weight:bold; }
+col.compare-first { background-color:#DCE6F1; }
+col.compare-second { background-color:#F2DCDB; }
+col.multi-odd { }
+col.multi-even { background-color:#EEECE1; }

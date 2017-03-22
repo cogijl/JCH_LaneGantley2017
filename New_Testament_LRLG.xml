@@ -1,0 +1,3790 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="New_Testament">
+<MetaNetwork id="New_Testament">
+<propertyIdentities>
+<propertyIdentity id="Image Folder" type="text" singleValued="false"/></propertyIdentities>
+<properties>
+<property id="Image Folder" value="New_Testament images"/></properties>
+<nodes>
+<nodeclass type="Agent" id="Concept">
+<propertyIdentities>
+<propertyIdentity id="Action" type="text" singleValued="false"/>
+<propertyIdentity id="Alias" type="text" singleValued="false"/>
+<propertyIdentity id="Evaluation" type="text" singleValued="false"/>
+<propertyIdentity id="frequency" type="number" singleValued="false"/>
+<propertyIdentity id="gram_type" type="categoryText" singleValued="false"/>
+<propertyIdentity id="louvain" type="categoryNumber" singleValued="true"/>
+<propertyIdentity id="number_of_texts" type="text" singleValued="false"/>
+<propertyIdentity id="Potency" type="text" singleValued="false"/>
+<propertyIdentity id="relative_frequency-within_text" type="text" singleValued="false"/></propertyIdentities>
+<node id="aaron">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="abaddon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="abba">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="abel">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="abiathar">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="abilene">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="abiud">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="abraham">
+<property id="frequency" value="74"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.04963112"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="aceldama">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="achaia">
+<property id="frequency" value="11"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.007377599"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="achaicus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="achaz">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="7.0"/></node>
+<node id="achim">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="adam">
+<property id="frequency" value="9"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0060362173"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="addi">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="9.0"/></node>
+<node id="adramyttium">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="aeneas">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="aenon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="agabus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="agrippa">
+<property id="frequency" value="12"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.008048289"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="alexander">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="alleluia">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="aminadab">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="11.0"/></node>
+<node id="amon">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="amos">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="12.0"/></node>
+<node id="amplias">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="ananiah">
+<property id="frequency" value="11"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.007377599"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="13.0"/></node>
+<node id="anathema">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="andrew">
+<property id="frequency" value="13"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0087189805"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="andronicus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="15.0"/></node>
+<node id="anna">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="annas">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="antichrist">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="antipas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="antipatris">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="apelles">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="apollonia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="apollos">
+<property id="frequency" value="10"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0067069083"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="apollyon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="apphia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="16.0"/></node>
+<node id="aquila">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="aram">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="11.0"/></node>
+<node id="archelaus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="19.0"/></node>
+<node id="archippus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="16.0"/></node>
+<node id="areopagus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="aretas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="aristarchus">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="aristobulus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="armageddon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="arphaxad">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="21.0"/></node>
+<node id="artemas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="asa">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="assos">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="asyncritus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="attalia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="augustus">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="azor">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="azotus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="baal">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="balaam">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="barabbas">
+<property id="frequency" value="11"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.007377599"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="barachias">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="barak">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="22.0"/></node>
+<node id="barjesus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="barjona">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="barnabas">
+<property id="frequency" value="29"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.019450033"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="barsabas">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="bartholomew">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="beelzebub">
+<property id="frequency" value="7"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0046948357"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="belial">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="benjamin">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="berea">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="bernice">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="bethabara">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="bethphage">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="bethsaida">
+<property id="frequency" value="7"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0046948357"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="bithynia">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="blastus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="boanerges">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="boaz">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="23.0"/></node>
+<node id="cain">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cainan">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="21.0"/></node>
+<node id="calvary">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cana">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="canaan">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="candace">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="carpus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="24.0"/></node>
+<node id="cedron">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cenchrea">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="cephas">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="charran">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="chios">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="chloe">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="chorazin">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="chuza">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="cilicia">
+<property id="frequency" value="8"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0053655263"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="claudia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="25.0"/></node>
+<node id="claudius">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="26.0"/></node>
+<node id="clement">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cleophas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="cnidus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="colosse">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="coos">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cornelius">
+<property id="frequency" value="10"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0067069083"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="cosam">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="27.0"/></node>
+<node id="crescens">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="cushan">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="cyrenius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="dalmanutha">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="dalmatia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="damaris">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="28.0"/></node>
+<node id="daniel">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="david">
+<property id="frequency" value="59"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.039570756"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="demas">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="demetrius">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="derbe">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="diana">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="didymus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="dionysius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="28.0"/></node>
+<node id="diotrephes">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="dorcas">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="drusilla">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="26.0"/></node>
+<node id="eleazar">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="eli">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="eliakim">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="elias">
+<property id="frequency" value="30"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.020120725"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="eliezer">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="29.0"/></node>
+<node id="elisabeth">
+<property id="frequency" value="9"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0060362173"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="eliud">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="elmodam">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="27.0"/></node>
+<node id="elymas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="emmanuel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="emmaus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="emmor">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="enoch">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="enos">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="21.0"/></node>
+<node id="epaphras">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="epaphroditus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="ephphatha">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="ephraim">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="erastus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="esaias">
+<property id="frequency" value="21"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.014084507"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="19.0"/></node>
+<node id="esau">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="esli">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="30.0"/></node>
+<node id="esrom">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="11.0"/></node>
+<node id="eubulus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="eunice">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="31.0"/></node>
+<node id="euodias">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="32.0"/></node>
+<node id="eutychus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="eve">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="felix">
+<property id="frequency" value="9"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0060362173"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="26.0"/></node>
+<node id="festus">
+<property id="frequency" value="13"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0087189805"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="fortunatus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="33.0"/></node>
+<node id="gabbatha">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gabriel">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gad">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gadarenes">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gaius">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="gallio">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="gamaliel">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gennesaret">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gergesenes">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="gog">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="hagar">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="18.0"/></node>
+<node id="heber">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="hebrews">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="heli">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="hen">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="hermas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="hermogenes">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="34.0"/></node>
+<node id="herod">
+<property id="frequency" value="44"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.029510396"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="herodion">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="hosanna">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="iconium">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="illyricum">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="isaac">
+<property id="frequency" value="20"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.013413817"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="iscariot">
+<property id="frequency" value="11"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.007377599"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="israel">
+<property id="frequency" value="75"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.050301813"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="19.0"/></node>
+<node id="issachar">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="jacob">
+<property id="frequency" value="27"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.018108651"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="jairus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="jambres">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="james">
+<property id="frequency" value="43"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.028839706"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="jannes">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="janohah">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="9.0"/></node>
+<node id="jared">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="35.0"/></node>
+<node id="jason">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="jesse">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="jesus_christ">
+<property id="frequency" value="1491"/>
+<property id="Action" value="0.42"/>
+<property id="number_of_texts" value="1"/>
+<property id="Potency" value="0.65"/>
+<property id="relative_frequency-within_text" value="1.0"/>
+<property id="Evaluation" value="1.33"/>
+<property id="gram_type" value="ngram"/>
+<property id="louvain" value="14.0"/></node>
+<node id="jezebel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="joanna">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="joatham">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="7.0"/></node>
+<node id="job">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="joel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="john">
+<property id="frequency" value="138"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.09255533"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="jonan">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="jonas">
+<property id="frequency" value="12"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.008048289"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="joram">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="7.0"/></node>
+<node id="jordan">
+<property id="frequency" value="15"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0100603625"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="jorim">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="josaphat">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="7.0"/></node>
+<node id="jose">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="29.0"/></node>
+<node id="joseph">
+<property id="frequency" value="35"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.02347418"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="joses">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="judah">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="19.0"/></node>
+<node id="judas">
+<property id="frequency" value="33"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.022132797"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="julia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="36.0"/></node>
+<node id="julius">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="junia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="15.0"/></node>
+<node id="jupiter">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="justus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="37.0"/></node>
+<node id="king_solomon">
+<property id="frequency" value="13"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0087189805"/>
+<property id="gram_type" value="ngram"/>
+<property id="louvain" value="14.0"/></node>
+<node id="lamech">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="lasea">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="lazarus">
+<property id="frequency" value="15"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0100603625"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="levi">
+<property id="frequency" value="8"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0053655263"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="linus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="25.0"/></node>
+<node id="lois">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="31.0"/></node>
+<node id="lot">
+<property id="frequency" value="8"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0053655263"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="37.0"/></node>
+<node id="lucas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="lucius">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="luke">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="lydda">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="lysanias">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="lysias">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="26.0"/></node>
+<node id="lystra">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="maath">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="madian">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="magdala">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="magdalene">
+<property id="frequency" value="12"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.008048289"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="magog">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="malchus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="maleleel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="35.0"/></node>
+<node id="mammon">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="manaen">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="maranatha">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="marcus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="mark">
+<property id="frequency" value="17"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.011401744"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="martha">
+<property id="frequency" value="13"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0087189805"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="mary">
+<property id="frequency" value="54"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.036217302"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="mattatha">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="39.0"/></node>
+<node id="mattathias">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="matthan">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="matthew">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="matthias">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="37.0"/></node>
+<node id="melchi">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="9.0"/></node>
+<node id="melea">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="melita">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="menan">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="39.0"/></node>
+<node id="mercurius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="michael">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="miletum">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="mitylene">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="mnason">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="moloch">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="moses">
+<property id="frequency" value="80"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.053655267"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="myra">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="mysia">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="24.0"/></node>
+<node id="naam">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="nachor">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="nagge">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="30.0"/></node>
+<node id="nain">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="narcissus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="nathan">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="nathanael">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="naum">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="12.0"/></node>
+<node id="nephthalim">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="nereus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="36.0"/></node>
+<node id="neri">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="nicanor">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="nicodemus">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="nicolaitanes">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="nicolas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="nimrim">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="nineveh">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="noah">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="noe">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="40.0"/></node>
+<node id="nymphas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="obed">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="23.0"/></node>
+<node id="olympas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="omega">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="onesimus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="onesiphorus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="ozias">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="7.0"/></node>
+<node id="pallu">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="41.0"/></node>
+<node id="pamphylia">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="paphos">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="parmenas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="pathrusim">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="patrobas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="paul">
+<property id="frequency" value="176"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.11804158"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="paulus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="42.0"/></node>
+<node id="perga">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="pergamos">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="43.0"/></node>
+<node id="persis">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="peter">
+<property id="frequency" value="164"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.109993294"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="phanuel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="pharaoh">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="pharisees">
+<property id="frequency" value="87"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0583501"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="philemon">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="philetus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="philip">
+<property id="frequency" value="36"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.02414487"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="philologus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="36.0"/></node>
+<node id="phlegon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="phoenicia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="phygellus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="34.0"/></node>
+<node id="phylacteries">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="pilate">
+<property id="frequency" value="60"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="relative_frequency-within_text" value="0.037558686"/>
+<property id="gram_type" value="single"/>
+<property id="Alias" value="pontius"/>
+<property id="louvain" value="14.0"/></node>
+<node id="pisidia">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="pontus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="prisca">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="priscilla">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="17.0"/></node>
+<node id="prochorus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="publius">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="pudens">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="25.0"/></node>
+<node id="puteoli">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="quartus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="raca">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="rachab">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="23.0"/></node>
+<node id="rachel">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="ragau">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="41.0"/></node>
+<node id="rahab">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="remphan">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="reuben">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="rhegium">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="rhesa">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="rhoda">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="roman">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="rufus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="ruth">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="23.0"/></node>
+<node id="sabaoth">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="19.0"/></node>
+<node id="sadducees">
+<property id="frequency" value="14"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0093896715"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="salamis">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="salathiel">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="salim">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="salmon">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="23.0"/></node>
+<node id="salome">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="samos">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="samothracia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="samson">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="22.0"/></node>
+<node id="samuel">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="sapphira">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="13.0"/></node>
+<node id="sarah">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="sardis">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="38.0"/></node>
+<node id="sarepta">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="saron">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="saruch">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="41.0"/></node>
+<node id="satan">
+<property id="frequency" value="37"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.02481556"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="saul">
+<property id="frequency" value="26"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.017437961"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="sceva">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="secundus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="seleucia">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="sem">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="40.0"/></node>
+<node id="semei">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="sergius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="42.0"/></node>
+<node id="seth">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="8.0"/></node>
+<node id="sidon">
+<property id="frequency" value="12"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.008048289"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="silas">
+<property id="frequency" value="13"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0087189805"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="silvanus">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="simeon">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="simon">
+<property id="frequency" value="76"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.050972503"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="sion">
+<property id="frequency" value="7"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0046948357"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="smyrna">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="43.0"/></node>
+<node id="sodom">
+<property id="frequency" value="9"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0060362173"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="37.0"/></node>
+<node id="sopater">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="sosthenes">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="stachys">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="stephanas">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="33.0"/></node>
+<node id="stephen">
+<property id="frequency" value="7"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0046948357"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="susanna">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="sychar">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="5.0"/></node>
+<node id="syntyche">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="32.0"/></node>
+<node id="syracuse">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="tabitha">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="tertius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="tertullus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="tetrarch">
+<property id="frequency" value="7"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0046948357"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="the_disciples">
+<property id="frequency" value="68"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.045606975"/>
+<property id="gram_type" value="ngram"/>
+<property id="louvain" value="1.0"/></node>
+<node id="theophilus">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="theudas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="thomas">
+<property id="frequency" value="12"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.008048289"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="thyatira">
+<property id="frequency" value="4"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0026827632"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="43.0"/></node>
+<node id="tiberias">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="tiberius">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="timon">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="3.0"/></node>
+<node id="timotheus">
+<property id="frequency" value="17"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.011401744"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="titus">
+<property id="frequency" value="14"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0093896715"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="20.0"/></node>
+<node id="trachonitis">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="2.0"/></node>
+<node id="troas">
+<property id="frequency" value="6"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0040241447"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="24.0"/></node>
+<node id="trophimus">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="tryphena">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="44.0"/></node>
+<node id="tryphosa">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="44.0"/></node>
+<node id="tychicus">
+<property id="frequency" value="5"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0033534542"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="6.0"/></node>
+<node id="tyrannus">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="urbane">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="14.0"/></node>
+<node id="zadok">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+<node id="zebedee">
+<property id="frequency" value="10"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0067069083"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="zelotes">
+<property id="frequency" value="2"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0013413816"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="10.0"/></node>
+<node id="zenas">
+<property id="frequency" value="1"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="6.706908E-4"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="1.0"/></node>
+<node id="zorobabel">
+<property id="frequency" value="3"/>
+<property id="number_of_texts" value="1"/>
+<property id="relative_frequency-within_text" value="0.0020120724"/>
+<property id="gram_type" value="single"/>
+<property id="louvain" value="4.0"/></node>
+</nodeclass>
+<nodeclass type="Unknown" id="Meta-Node 1">
+<node id="34"/>
+<node id="23"/>
+<node id="41"/>
+<node id="31"/>
+<node id="3"/>
+<node id="11"/>
+<node id="14"/>
+<node id="25"/>
+<node id="21"/>
+<node id="37"/>
+<node id="15"/>
+<node id="44"/>
+<node id="18"/>
+<node id="12"/>
+<node id="42"/>
+<node id="8"/>
+<node id="26"/>
+<node id="29"/>
+<node id="43"/>
+<node id="38"/>
+<node id="10"/>
+<node id="40"/>
+<node id="33"/>
+<node id="13"/>
+<node id="2"/>
+<node id="30"/>
+<node id="48"/>
+<node id="16"/>
+<node id="24"/>
+<node id="7"/>
+<node id="22"/>
+<node id="45"/>
+<node id="39"/>
+<node id="19"/>
+<node id="1"/>
+<node id="32"/>
+<node id="6"/>
+<node id="46"/>
+<node id="35"/>
+<node id="27"/>
+<node id="5"/>
+<node id="17"/>
+<node id="9"/>
+<node id="20"/>
+<node id="36"/>
+<node id="28"/>
+<node id="4"/>
+<node id="47"/></nodeclass>
+</nodes>
+<networks>
+<network sourceType="Agent" source="Concept" targetType="Agent" target="Concept" id="Semantic Network" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<link source="marcus" target="lucas"/>
+<link source="marcus" target="demas"/>
+<link source="marcus" target="aristarchus" value="2"/>
+<link source="asa" target="asa" value="2"/>
+<link source="ananiah" target="sapphira"/>
+<link source="theophilus" target="jesus_christ"/>
+<link source="stephanas" target="fortunatus"/>
+<link source="jesse" target="david" value="3"/>
+<link source="colosse" target="jesus_christ" value="2"/>
+<link source="sychar" target="jacob"/>
+<link source="rachab" target="boaz"/>
+<link source="rachab" target="salmon" value="3"/>
+<link source="boaz" target="ruth"/>
+<link source="boaz" target="rachab"/>
+<link source="boaz" target="obed" value="3"/>
+<link source="boaz" target="salmon" value="4"/>
+<link source="eliud" target="achim" value="4"/>
+<link source="eliud" target="eliud" value="2"/>
+<link source="eliud" target="eleazar" value="2"/>
+<link source="zorobabel" target="salathiel" value="4"/>
+<link source="zorobabel" target="rhesa"/>
+<link source="zorobabel" target="abiud" value="2"/>
+<link source="zorobabel" target="zorobabel" value="2"/>
+<link source="enos" target="cainan" value="2"/>
+<link source="philologus" target="nereus"/>
+<link source="philologus" target="julia"/>
+<link source="salim" target="john" value="2"/>
+<link source="salim" target="aenon"/>
+<link source="simon" target="zelotes" value="2"/>
+<link source="simon" target="iscariot" value="3"/>
+<link source="simon" target="john"/>
+<link source="simon" target="thomas"/>
+<link source="simon" target="didymus"/>
+<link source="simon" target="james" value="2"/>
+<link source="simon" target="judas" value="6"/>
+<link source="simon" target="barjona"/>
+<link source="simon" target="jesus_christ" value="9"/>
+<link source="simon" target="joses"/>
+<link source="simon" target="peter" value="32"/>
+<link source="simon" target="zebedee"/>
+<link source="simon" target="andrew" value="8"/>
+<link source="simon" target="simon" value="4"/>
+<link source="iconium" target="lystra" value="2"/>
+<link source="iconium" target="the_disciples" value="2"/>
+<link source="iscariot" target="judas" value="11"/>
+<link source="iscariot" target="satan"/>
+<link source="iscariot" target="simon" value="3"/>
+<link source="sem" target="noe"/>
+<link source="addi" target="melchi"/>
+<link source="maranatha" target="anathema"/>
+<link source="maranatha" target="jesus_christ"/>
+<link source="claudia" target="pudens" value="2"/>
+<link source="claudia" target="linus"/>
+<link source="philip" target="prochorus" value="2"/>
+<link source="philip" target="john" value="2"/>
+<link source="philip" target="herod"/>
+<link source="philip" target="nathanael"/>
+<link source="philip" target="matthew"/>
+<link source="philip" target="jesus_christ" value="5"/>
+<link source="philip" target="nicanor" value="2"/>
+<link source="philip" target="bartholomew" value="2"/>
+<link source="philip" target="azotus"/>
+<link source="philip" target="parmenas" value="2"/>
+<link source="philip" target="bethsaida"/>
+<link source="philip" target="andrew" value="4"/>
+<link source="philip" target="timon" value="2"/>
+<link source="philip" target="tetrarch" value="3"/>
+<link source="barjona" target="simon"/>
+<link source="pharaoh" target="joseph"/>
+<link source="lazarus" target="abraham"/>
+<link source="lazarus" target="jesus_christ" value="3"/>
+<link source="gallio" target="achaia"/>
+<link source="benjamin" target="hebrews"/>
+<link source="benjamin" target="abraham"/>
+<link source="martha" target="mary" value="2"/>
+<link source="martha" target="jesus_christ" value="4"/>
+<link source="jambres" target="jannes"/>
+<link source="jambres" target="moses"/>
+<link source="barak" target="samson"/>
+<link source="cushan" target="gaius"/>
+<link source="joram" target="ozias" value="2"/>
+<link source="joram" target="joram" value="2"/>
+<link source="joram" target="josaphat" value="2"/>
+<link source="mark" target="paul"/>
+<link source="mark" target="barnabas"/>
+<link source="mark" target="luke"/>
+<link source="troas" target="mysia"/>
+<link source="troas" target="carpus"/>
+<link source="troas" target="jesus_christ"/>
+<link source="adam" target="eve"/>
+<link source="adam" target="enoch"/>
+<link source="adam" target="moses"/>
+<link source="adam" target="seth"/>
+<link source="berea" target="paul"/>
+<link source="berea" target="sopater"/>
+<link source="felix" target="lysias" value="2"/>
+<link source="felix" target="festus"/>
+<link source="felix" target="claudius"/>
+<link source="felix" target="drusilla"/>
+<link source="aeneas" target="peter" value="2"/>
+<link source="aeneas" target="jesus_christ"/>
+<link source="tetrarch" target="abilene"/>
+<link source="tetrarch" target="annas"/>
+<link source="tetrarch" target="herod" value="5"/>
+<link source="tetrarch" target="philip" value="3"/>
+<link source="tetrarch" target="lysanias" value="2"/>
+<link source="tetrarch" target="jesus_christ"/>
+<link source="tetrarch" target="tetrarch" value="2"/>
+<link source="trophimus" target="erastus"/>
+<link source="trophimus" target="timotheus"/>
+<link source="trophimus" target="tychicus"/>
+<link source="trophimus" target="miletum"/>
+<link source="zelotes" target="james" value="3"/>
+<link source="zelotes" target="judas" value="3"/>
+<link source="zelotes" target="simon" value="2"/>
+<link source="nicodemus" target="jesus_christ" value="2"/>
+<link source="eleazar" target="jacob"/>
+<link source="eleazar" target="achim" value="2"/>
+<link source="eleazar" target="matthan" value="2"/>
+<link source="eleazar" target="eliud" value="2"/>
+<link source="tryphena" target="tryphosa"/>
+<link source="john" target="barnabas"/>
+<link source="john" target="gaius" value="2"/>
+<link source="john" target="the_disciples" value="8"/>
+<link source="john" target="cephas"/>
+<link source="john" target="elias" value="2"/>
+<link source="john" target="peter" value="14"/>
+<link source="john" target="philip" value="2"/>
+<link source="john" target="mary"/>
+<link source="john" target="simon"/>
+<link source="john" target="pamphylia"/>
+<link source="john" target="john" value="2"/>
+<link source="john" target="james" value="21"/>
+<link source="john" target="perga"/>
+<link source="john" target="jordan" value="2"/>
+<link source="john" target="herod" value="4"/>
+<link source="john" target="pharisees"/>
+<link source="john" target="aenon" value="2"/>
+<link source="john" target="jesus_christ" value="7"/>
+<link source="john" target="bartholomew"/>
+<link source="john" target="paul"/>
+<link source="john" target="zebedee" value="5"/>
+<link source="john" target="salim" value="2"/>
+<link source="john" target="andrew" value="2"/>
+<link source="john" target="alexander"/>
+<link source="noe" target="sem"/>
+<link source="menan" target="mattatha"/>
+<link source="abilene" target="annas"/>
+<link source="abilene" target="lysanias" value="2"/>
+<link source="abilene" target="tetrarch"/>
+<link source="jared" target="maleleel"/>
+<link source="obed" target="ruth" value="2"/>
+<link source="obed" target="boaz" value="3"/>
+<link source="obed" target="obed" value="2"/>
+<link source="jonan" target="joseph"/>
+<link source="tertius" target="king_solomon" value="2"/>
+<link source="bernice" target="agrippa"/>
+<link source="azor" target="achim"/>
+<link source="azor" target="abiud"/>
+<link source="azor" target="zadok" value="2"/>
+<link source="azor" target="eliakim" value="2"/>
+<link source="julius" target="paul" value="3"/>
+<link source="chuza" target="joanna"/>
+<link source="epaphras" target="jesus_christ" value="2"/>
+<link source="crescens" target="titus"/>
+<link source="crescens" target="dalmatia"/>
+<link source="melchi" target="addi"/>
+<link source="melchi" target="janohah"/>
+<link source="prisca" target="aquila"/>
+<link source="prisca" target="onesiphorus"/>
+<link source="lois" target="eunice"/>
+<link source="matthew" target="bartholomew" value="3"/>
+<link source="matthew" target="james" value="3"/>
+<link source="matthew" target="thomas" value="3"/>
+<link source="matthew" target="philip"/>
+<link source="matthew" target="andrew"/>
+<link source="julia" target="nereus"/>
+<link source="julia" target="philologus"/>
+<link source="titus" target="crescens"/>
+<link source="titus" target="paul"/>
+<link source="titus" target="dalmatia"/>
+<link source="paul" target="julius" value="3"/>
+<link source="paul" target="antipatris"/>
+<link source="paul" target="assos"/>
+<link source="paul" target="barnabas" value="10"/>
+<link source="paul" target="paphos"/>
+<link source="paul" target="titus"/>
+<link source="paul" target="saul"/>
+<link source="paul" target="silvanus" value="2"/>
+<link source="paul" target="the_disciples"/>
+<link source="paul" target="philemon"/>
+<link source="paul" target="timotheus" value="3"/>
+<link source="paul" target="festus" value="7"/>
+<link source="paul" target="agrippa" value="2"/>
+<link source="paul" target="james"/>
+<link source="paul" target="john"/>
+<link source="paul" target="berea"/>
+<link source="paul" target="silas" value="6"/>
+<link source="paul" target="sadducees"/>
+<link source="paul" target="apollos"/>
+<link source="paul" target="satan"/>
+<link source="paul" target="jesus_christ" value="16"/>
+<link source="paul" target="mark"/>
+<link source="paul" target="jupiter"/>
+<link source="paul" target="hebrews"/>
+<link source="pudens" target="claudia" value="2"/>
+<link source="pudens" target="linus" value="2"/>
+<link source="king_solomon" target="tertius" value="2"/>
+<link source="king_solomon" target="jesus_christ" value="2"/>
+<link source="fortunatus" target="stephanas"/>
+<link source="bethsaida" target="peter"/>
+<link source="bethsaida" target="philip"/>
+<link source="bethsaida" target="andrew"/>
+<link source="eunice" target="lois"/>
+<link source="euodias" target="syntyche"/>
+<link source="phygellus" target="hermogenes"/>
+<link source="eve" target="adam"/>
+<link source="aminadab" target="aminadab" value="2"/>
+<link source="aminadab" target="aram" value="2"/>
+<link source="festus" target="agrippa" value="2"/>
+<link source="festus" target="paul" value="7"/>
+<link source="festus" target="felix"/>
+<link source="nicanor" target="prochorus"/>
+<link source="nicanor" target="parmenas"/>
+<link source="nicanor" target="philip" value="2"/>
+<link source="nicanor" target="timon"/>
+<link source="josaphat" target="ozias"/>
+<link source="josaphat" target="joram" value="2"/>
+<link source="aaron" target="elisabeth"/>
+<link source="ozias" target="joram" value="2"/>
+<link source="ozias" target="achaz"/>
+<link source="ozias" target="joatham" value="2"/>
+<link source="ozias" target="josaphat"/>
+<link source="sabaoth" target="esaias"/>
+<link source="gaius" target="derbe"/>
+<link source="gaius" target="john" value="2"/>
+<link source="gaius" target="secundus"/>
+<link source="gaius" target="cushan"/>
+<link source="gaius" target="aristarchus" value="2"/>
+<link source="illyricum" target="jesus_christ" value="2"/>
+<link source="neri" target="salathiel"/>
+<link source="thyatira" target="smyrna"/>
+<link source="thyatira" target="pergamos"/>
+<link source="silvanus" target="paul" value="2"/>
+<link source="silvanus" target="timotheus" value="3"/>
+<link source="the_disciples" target="john" value="8"/>
+<link source="the_disciples" target="magdalene"/>
+<link source="the_disciples" target="apollos" value="2"/>
+<link source="the_disciples" target="saul" value="2"/>
+<link source="the_disciples" target="iconium" value="2"/>
+<link source="the_disciples" target="pharisees" value="3"/>
+<link source="the_disciples" target="jesus_christ" value="9"/>
+<link source="the_disciples" target="the_disciples" value="2"/>
+<link source="the_disciples" target="peter" value="2"/>
+<link source="the_disciples" target="paul"/>
+<link source="the_disciples" target="mary"/>
+<link source="the_disciples" target="tyrannus" value="2"/>
+<link source="assos" target="paul"/>
+<link source="annas" target="abilene"/>
+<link source="annas" target="lysanias" value="2"/>
+<link source="annas" target="tetrarch"/>
+<link source="nagge" target="esli"/>
+<link source="aristarchus" target="lucas"/>
+<link source="aristarchus" target="derbe"/>
+<link source="aristarchus" target="marcus" value="2"/>
+<link source="aristarchus" target="gaius" value="2"/>
+<link source="aristarchus" target="secundus"/>
+<link source="aristarchus" target="demas"/>
+<link source="parmenas" target="prochorus"/>
+<link source="parmenas" target="philip" value="2"/>
+<link source="parmenas" target="nicanor"/>
+<link source="parmenas" target="timon"/>
+<link source="semei" target="mattathias"/>
+<link source="jose" target="eliezer"/>
+<link source="isaac" target="jacob" value="18"/>
+<link source="isaac" target="abraham" value="10"/>
+<link source="isaac" target="judas" value="3"/>
+<link source="isaac" target="esau" value="2"/>
+<link source="isaac" target="isaac" value="4"/>
+<link source="joatham" target="ozias" value="2"/>
+<link source="joatham" target="achaz" value="2"/>
+<link source="joatham" target="joatham" value="2"/>
+<link source="aram" target="aminadab" value="2"/>
+<link source="aram" target="esrom" value="3"/>
+<link source="barsabas" target="joseph"/>
+<link source="barsabas" target="judas"/>
+<link source="barsabas" target="silas"/>
+<link source="rufus" target="alexander"/>
+<link source="judas" target="jacob" value="2"/>
+<link source="judas" target="zelotes" value="3"/>
+<link source="judas" target="iscariot" value="11"/>
+<link source="judas" target="james" value="2"/>
+<link source="judas" target="barsabas"/>
+<link source="judas" target="silas" value="3"/>
+<link source="judas" target="satan"/>
+<link source="judas" target="jesus_christ" value="3"/>
+<link source="judas" target="simon" value="6"/>
+<link source="judas" target="isaac" value="3"/>
+<link source="judas" target="joses"/>
+<link source="carpus" target="troas"/>
+<link source="samuel" target="david"/>
+<link source="apelles" target="jesus_christ" value="2"/>
+<link source="paphos" target="paul"/>
+<link source="pontus" target="priscilla" value="2"/>
+<link source="pontus" target="bithynia" value="2"/>
+<link source="demas" target="lucas"/>
+<link source="demas" target="marcus"/>
+<link source="demas" target="luke"/>
+<link source="demas" target="aristarchus"/>
+<link source="paulus" target="sergius"/>
+<link source="pamphylia" target="john"/>
+<link source="pamphylia" target="perga"/>
+<link source="pamphylia" target="cilicia"/>
+<link source="stephen" target="saul"/>
+<link source="syntyche" target="euodias"/>
+<link source="tychicus" target="trophimus"/>
+<link source="tychicus" target="timotheus"/>
+<link source="antipatris" target="paul"/>
+<link source="elmodam" target="cosam"/>
+<link source="lydda" target="saron"/>
+<link source="sergius" target="paulus"/>
+<link source="simeon" target="nimrim"/>
+<link source="simeon" target="barnabas"/>
+<link source="simeon" target="levi" value="2"/>
+<link source="nereus" target="julia"/>
+<link source="nereus" target="philologus"/>
+<link source="bithynia" target="pontus" value="2"/>
+<link source="saruch" target="ragau"/>
+<link source="pergamos" target="smyrna"/>
+<link source="pergamos" target="thyatira"/>
+<link source="nathanael" target="cana"/>
+<link source="nathanael" target="philip"/>
+<link source="nathanael" target="jesus_christ"/>
+<link source="damaris" target="dionysius"/>
+<link source="saul" target="paul"/>
+<link source="saul" target="barnabas" value="5"/>
+<link source="saul" target="saul" value="2"/>
+<link source="saul" target="jesus_christ"/>
+<link source="saul" target="the_disciples" value="2"/>
+<link source="saul" target="stephen"/>
+<link source="salome" target="james"/>
+<link source="salome" target="mary"/>
+<link source="cenchrea" target="aquila"/>
+<link source="cenchrea" target="priscilla" value="2"/>
+<link source="nimrim" target="barnabas"/>
+<link source="nimrim" target="simeon"/>
+<link source="hermogenes" target="phygellus"/>
+<link source="urbane" target="stachys" value="2"/>
+<link source="urbane" target="jesus_christ" value="2"/>
+<link source="drusilla" target="felix"/>
+<link source="barabbas" target="pilate"/>
+<link source="barabbas" target="barabbas" value="2"/>
+<link source="barabbas" target="jesus_christ" value="2"/>
+<link source="azotus" target="philip"/>
+<link source="amon" target="amon" value="2"/>
+<link source="agrippa" target="paul" value="2"/>
+<link source="agrippa" target="festus" value="2"/>
+<link source="agrippa" target="bernice"/>
+<link source="ragau" target="saruch"/>
+<link source="ragau" target="pallu"/>
+<link source="eli" target="eli" value="2"/>
+<link source="prochorus" target="parmenas"/>
+<link source="prochorus" target="philip" value="2"/>
+<link source="prochorus" target="nicanor"/>
+<link source="prochorus" target="timon"/>
+<link source="onesiphorus" target="aquila"/>
+<link source="onesiphorus" target="prisca"/>
+<link source="mysia" target="troas"/>
+<link source="tyrannus" target="the_disciples" value="2"/>
+<link source="achim" target="azor"/>
+<link source="achim" target="zadok" value="2"/>
+<link source="achim" target="eliud" value="4"/>
+<link source="achim" target="eleazar" value="2"/>
+<link source="stachys" target="urbane" value="2"/>
+<link source="stachys" target="jesus_christ"/>
+<link source="maleleel" target="jared"/>
+<link source="ruth" target="boaz"/>
+<link source="ruth" target="obed" value="2"/>
+<link source="manaen" target="herod" value="2"/>
+<link source="manaen" target="lucius"/>
+<link source="arphaxad" target="cainan"/>
+<link source="sodom" target="lot"/>
+<link source="salmon" target="boaz" value="4"/>
+<link source="salmon" target="rachab" value="3"/>
+<link source="salmon" target="salmon" value="4"/>
+<link source="pallu" target="ragau"/>
+<link source="matthias" target="justus"/>
+<link source="matthias" target="lot"/>
+<link source="jordan" target="john" value="2"/>
+<link source="jordan" target="bethabara"/>
+<link source="jordan" target="jesus_christ"/>
+<link source="sidon" target="sarepta" value="2"/>
+<link source="smyrna" target="pergamos"/>
+<link source="smyrna" target="thyatira"/>
+<link source="erastus" target="trophimus"/>
+<link source="erastus" target="timotheus"/>
+<link source="herod" target="john" value="4"/>
+<link source="herod" target="pilate" value="3"/>
+<link source="herod" target="philip"/>
+<link source="herod" target="pharisees"/>
+<link source="herod" target="manaen" value="2"/>
+<link source="herod" target="jesus_christ" value="3"/>
+<link source="herod" target="tetrarch" value="5"/>
+<link source="timon" target="prochorus"/>
+<link source="timon" target="parmenas"/>
+<link source="timon" target="philip" value="2"/>
+<link source="timon" target="nicanor"/>
+<link source="priscilla" target="pontus" value="2"/>
+<link source="priscilla" target="aquila" value="5"/>
+<link source="priscilla" target="jesus_christ" value="2"/>
+<link source="priscilla" target="cenchrea" value="2"/>
+<link source="malchus" target="peter"/>
+<link source="malchus" target="jesus_christ"/>
+<link source="rhoda" target="peter"/>
+<link source="heli" target="joseph"/>
+<link source="barnabas" target="john"/>
+<link source="barnabas" target="saul" value="5"/>
+<link source="barnabas" target="simeon"/>
+<link source="barnabas" target="joses"/>
+<link source="barnabas" target="cephas"/>
+<link source="barnabas" target="mark"/>
+<link source="barnabas" target="jupiter"/>
+<link source="barnabas" target="paul" value="10"/>
+<link source="barnabas" target="nimrim"/>
+<link source="cainan" target="arphaxad"/>
+<link source="cainan" target="enos" value="2"/>
+<link source="cosam" target="elmodam"/>
+<link source="thomas" target="bartholomew" value="3"/>
+<link source="thomas" target="didymus" value="3"/>
+<link source="thomas" target="james" value="5"/>
+<link source="thomas" target="peter"/>
+<link source="thomas" target="matthew" value="3"/>
+<link source="thomas" target="jesus_christ"/>
+<link source="thomas" target="simon"/>
+<link source="esrom" target="esrom" value="2"/>
+<link source="esrom" target="aram" value="3"/>
+<link source="joseph" target="jacob" value="3"/>
+<link source="joseph" target="heli"/>
+<link source="joseph" target="barsabas"/>
+<link source="joseph" target="david" value="2"/>
+<link source="joseph" target="pharaoh"/>
+<link source="joseph" target="mary" value="2"/>
+<link source="joseph" target="mattathias" value="2"/>
+<link source="joseph" target="jonan"/>
+<link source="joseph" target="jesus_christ"/>
+<link source="lucas" target="marcus"/>
+<link source="lucas" target="demas"/>
+<link source="lucas" target="aristarchus"/>
+<link source="mattathias" target="joseph" value="2"/>
+<link source="mattathias" target="semei"/>
+<link source="andronicus" target="junia"/>
+<link source="junia" target="andronicus"/>
+<link source="mary" target="john"/>
+<link source="mary" target="james" value="6"/>
+<link source="mary" target="magdalene" value="19"/>
+<link source="mary" target="salome"/>
+<link source="mary" target="cleophas"/>
+<link source="mary" target="jesus_christ" value="3"/>
+<link source="mary" target="the_disciples"/>
+<link source="mary" target="joses" value="3"/>
+<link source="mary" target="martha" value="2"/>
+<link source="mary" target="jacob"/>
+<link source="mary" target="joseph" value="2"/>
+<link source="mary" target="elisabeth"/>
+<link source="mary" target="joanna"/>
+<link source="mary" target="david"/>
+<link source="mary" target="mary" value="10"/>
+<link source="seth" target="adam"/>
+<link source="bethabara" target="jordan"/>
+<link source="dalmatia" target="crescens"/>
+<link source="dalmatia" target="titus"/>
+<link source="aenon" target="john" value="2"/>
+<link source="aenon" target="salim"/>
+<link source="zadok" target="achim" value="2"/>
+<link source="zadok" target="azor" value="2"/>
+<link source="zadok" target="zadok" value="2"/>
+<link source="zebedee" target="cana"/>
+<link source="zebedee" target="james" value="5"/>
+<link source="zebedee" target="john" value="5"/>
+<link source="zebedee" target="peter"/>
+<link source="zebedee" target="simon"/>
+<link source="hagar" target="hagar" value="2"/>
+<link source="rhesa" target="zorobabel"/>
+<link source="archelaus" target="israel"/>
+<link source="eliakim" target="azor" value="2"/>
+<link source="eliakim" target="abiud" value="2"/>
+<link source="eliakim" target="eliakim" value="2"/>
+<link source="eliakim" target="melea" value="2"/>
+<link source="elisabeth" target="mary"/>
+<link source="elisabeth" target="aaron"/>
+<link source="abraham" target="jacob" value="4"/>
+<link source="abraham" target="benjamin"/>
+<link source="abraham" target="moses"/>
+<link source="abraham" target="david" value="2"/>
+<link source="abraham" target="satan"/>
+<link source="abraham" target="lazarus"/>
+<link source="abraham" target="jesus_christ"/>
+<link source="abraham" target="isaac" value="10"/>
+<link source="achaz" target="ozias"/>
+<link source="achaz" target="joatham" value="2"/>
+<link source="hebrews" target="benjamin"/>
+<link source="hebrews" target="paul"/>
+<link source="esaias" target="sabaoth"/>
+<link source="esaias" target="israel"/>
+<link source="eliezer" target="jose"/>
+<link source="linus" target="pudens" value="2"/>
+<link source="linus" target="claudia"/>
+<link source="mattatha" target="menan"/>
+<link source="dalmanutha" target="pharisees"/>
+<link source="peter" target="john" value="14"/>
+<link source="peter" target="rhoda"/>
+<link source="peter" target="thomas"/>
+<link source="peter" target="didymus"/>
+<link source="peter" target="james" value="8"/>
+<link source="peter" target="malchus"/>
+<link source="peter" target="satan"/>
+<link source="peter" target="jesus_christ" value="24"/>
+<link source="peter" target="the_disciples" value="2"/>
+<link source="peter" target="peter" value="10"/>
+<link source="peter" target="bethsaida"/>
+<link source="peter" target="aeneas" value="2"/>
+<link source="peter" target="zebedee"/>
+<link source="peter" target="jonas"/>
+<link source="peter" target="andrew" value="8"/>
+<link source="peter" target="simon" value="32"/>
+<link source="lysias" target="claudius"/>
+<link source="lysias" target="felix" value="2"/>
+<link source="judah" target="israel"/>
+<link source="andrew" target="bartholomew"/>
+<link source="andrew" target="james" value="2"/>
+<link source="andrew" target="john" value="2"/>
+<link source="andrew" target="bethsaida"/>
+<link source="andrew" target="peter" value="8"/>
+<link source="andrew" target="matthew"/>
+<link source="andrew" target="philip" value="4"/>
+<link source="andrew" target="jesus_christ" value="3"/>
+<link source="andrew" target="simon" value="8"/>
+<link source="enoch" target="adam"/>
+<link source="nathan" target="david"/>
+<link source="lystra" target="derbe" value="2"/>
+<link source="lystra" target="iconium" value="2"/>
+<link source="pharisees" target="john"/>
+<link source="pharisees" target="pilate"/>
+<link source="pharisees" target="sadducees" value="8"/>
+<link source="pharisees" target="herod"/>
+<link source="pharisees" target="moses"/>
+<link source="pharisees" target="jesus_christ" value="3"/>
+<link source="pharisees" target="the_disciples" value="3"/>
+<link source="pharisees" target="dalmanutha"/>
+<link source="pilate" target="pilate" value="8"/>
+<link source="pilate" target="herod" value="3"/>
+<link source="pilate" target="barabbas"/>
+<link source="pilate" target="pharisees"/>
+<link source="pilate" target="jesus_christ" value="12"/>
+<link source="alexander" target="john"/>
+<link source="alexander" target="satan"/>
+<link source="alexander" target="rufus"/>
+<link source="david" target="abraham" value="2"/>
+<link source="david" target="samuel"/>
+<link source="david" target="jesse" value="3"/>
+<link source="david" target="jesus_christ" value="7"/>
+<link source="david" target="hosanna" value="2"/>
+<link source="david" target="joseph" value="2"/>
+<link source="david" target="david" value="2"/>
+<link source="david" target="nathan"/>
+<link source="david" target="mary"/>
+<link source="salathiel" target="neri"/>
+<link source="salathiel" target="abiud" value="2"/>
+<link source="salathiel" target="zorobabel" value="4"/>
+<link source="achaia" target="gallio"/>
+<link source="achaia" target="jesus_christ"/>
+<link source="jannes" target="moses"/>
+<link source="jannes" target="jambres"/>
+<link source="james" target="zelotes" value="3"/>
+<link source="james" target="john" value="21"/>
+<link source="james" target="thomas" value="5"/>
+<link source="james" target="james" value="2"/>
+<link source="james" target="magdalene" value="3"/>
+<link source="james" target="judas" value="2"/>
+<link source="james" target="salome"/>
+<link source="james" target="matthew" value="3"/>
+<link source="james" target="joses" value="3"/>
+<link source="james" target="cephas" value="2"/>
+<link source="james" target="bartholomew" value="2"/>
+<link source="james" target="peter" value="8"/>
+<link source="james" target="paul"/>
+<link source="james" target="mary" value="6"/>
+<link source="james" target="zebedee" value="5"/>
+<link source="james" target="andrew" value="2"/>
+<link source="james" target="simon" value="2"/>
+<link source="moses" target="jacob"/>
+<link source="moses" target="jannes"/>
+<link source="moses" target="elias" value="5"/>
+<link source="moses" target="adam"/>
+<link source="moses" target="abraham"/>
+<link source="moses" target="pharisees"/>
+<link source="moses" target="jambres"/>
+<link source="moses" target="jesus_christ"/>
+<link source="joses" target="james" value="3"/>
+<link source="joses" target="judas"/>
+<link source="joses" target="magdalene" value="3"/>
+<link source="joses" target="barnabas"/>
+<link source="joses" target="mary" value="3"/>
+<link source="joses" target="simon"/>
+<link source="magdalene" target="james" value="3"/>
+<link source="magdalene" target="joanna"/>
+<link source="magdalene" target="mary" value="19"/>
+<link source="magdalene" target="jesus_christ" value="2"/>
+<link source="magdalene" target="the_disciples"/>
+<link source="magdalene" target="joses" value="3"/>
+<link source="luke" target="demas"/>
+<link source="luke" target="mark"/>
+<link source="samson" target="barak"/>
+<link source="cana" target="nathanael"/>
+<link source="cana" target="zebedee"/>
+<link source="cana" target="jesus_christ" value="2"/>
+<link source="jupiter" target="paul"/>
+<link source="jupiter" target="barnabas"/>
+<link source="silas" target="judas" value="3"/>
+<link source="silas" target="paul" value="6"/>
+<link source="silas" target="barsabas"/>
+<link source="silas" target="timotheus" value="3"/>
+<link source="sarepta" target="sidon" value="2"/>
+<link source="cephas" target="james" value="2"/>
+<link source="cephas" target="john"/>
+<link source="cephas" target="barnabas"/>
+<link source="cephas" target="apollos" value="3"/>
+<link source="cephas" target="jesus_christ"/>
+<link source="levi" target="simeon" value="2"/>
+<link source="melea" target="eliakim" value="2"/>
+<link source="anathema" target="maranatha"/>
+<link source="cilicia" target="pamphylia"/>
+<link source="archippus" target="apphia"/>
+<link source="sopater" target="berea"/>
+<link source="lucius" target="timotheus"/>
+<link source="lucius" target="jason"/>
+<link source="lucius" target="manaen"/>
+<link source="perga" target="pamphylia"/>
+<link source="perga" target="john"/>
+<link source="elias" target="john" value="2"/>
+<link source="elias" target="moses" value="5"/>
+<link source="elias" target="israel"/>
+<link source="aquila" target="onesiphorus"/>
+<link source="aquila" target="priscilla" value="5"/>
+<link source="aquila" target="prisca"/>
+<link source="aquila" target="jesus_christ" value="2"/>
+<link source="aquila" target="cenchrea"/>
+<link source="miletum" target="trophimus"/>
+<link source="saron" target="lydda"/>
+<link source="cleophas" target="mary"/>
+<link source="jonas" target="peter"/>
+<link source="jonas" target="jonas" value="8"/>
+<link source="matthan" target="jacob" value="2"/>
+<link source="matthan" target="matthan" value="2"/>
+<link source="matthan" target="eleazar" value="2"/>
+<link source="timotheus" target="trophimus"/>
+<link source="timotheus" target="erastus"/>
+<link source="timotheus" target="paul" value="3"/>
+<link source="timotheus" target="silas" value="3"/>
+<link source="timotheus" target="lucius"/>
+<link source="timotheus" target="jason"/>
+<link source="timotheus" target="silvanus" value="3"/>
+<link source="timotheus" target="jesus_christ" value="3"/>
+<link source="timotheus" target="tychicus"/>
+<link source="abiud" target="salathiel" value="2"/>
+<link source="abiud" target="azor"/>
+<link source="abiud" target="zorobabel" value="2"/>
+<link source="abiud" target="eliakim" value="2"/>
+<link source="esau" target="jacob"/>
+<link source="esau" target="isaac" value="2"/>
+<link source="hosanna" target="david" value="2"/>
+<link source="hosanna" target="israel"/>
+<link source="joanna" target="magdalene"/>
+<link source="joanna" target="chuza"/>
+<link source="joanna" target="mary"/>
+<link source="zenas" target="apollos" value="2"/>
+<link source="claudius" target="lysias"/>
+<link source="claudius" target="felix"/>
+<link source="lysanias" target="abilene" value="2"/>
+<link source="lysanias" target="annas" value="2"/>
+<link source="lysanias" target="tetrarch" value="2"/>
+<link source="dionysius" target="damaris"/>
+<link source="didymus" target="thomas" value="3"/>
+<link source="didymus" target="peter"/>
+<link source="didymus" target="simon"/>
+<link source="jacob" target="matthan" value="2"/>
+<link source="jacob" target="abraham" value="4"/>
+<link source="jacob" target="judas" value="2"/>
+<link source="jacob" target="esau"/>
+<link source="jacob" target="jesus_christ"/>
+<link source="jacob" target="isaac" value="18"/>
+<link source="jacob" target="jacob" value="4"/>
+<link source="jacob" target="joseph" value="3"/>
+<link source="jacob" target="sychar"/>
+<link source="jacob" target="moses"/>
+<link source="jacob" target="mary"/>
+<link source="jacob" target="eleazar"/>
+<link source="apphia" target="archippus"/>
+<link source="jason" target="timotheus"/>
+<link source="jason" target="lucius"/>
+<link source="justus" target="matthias"/>
+<link source="secundus" target="derbe"/>
+<link source="secundus" target="gaius"/>
+<link source="secundus" target="aristarchus"/>
+<link source="sadducees" target="paul"/>
+<link source="sadducees" target="pharisees" value="8"/>
+<link source="apollos" target="zenas" value="2"/>
+<link source="apollos" target="paul"/>
+<link source="apollos" target="jesus_christ" value="2"/>
+<link source="apollos" target="the_disciples" value="2"/>
+<link source="apollos" target="cephas" value="3"/>
+<link source="derbe" target="lystra" value="2"/>
+<link source="derbe" target="gaius"/>
+<link source="derbe" target="secundus"/>
+<link source="derbe" target="aristarchus"/>
+<link source="naum" target="amos"/>
+<link source="israel" target="hosanna"/>
+<link source="israel" target="elias"/>
+<link source="israel" target="archelaus"/>
+<link source="israel" target="israel" value="2"/>
+<link source="israel" target="judah"/>
+<link source="israel" target="jesus_christ" value="3"/>
+<link source="israel" target="esaias"/>
+<link source="jesus_christ" target="apelles" value="2"/>
+<link source="jesus_christ" target="stachys"/>
+<link source="jesus_christ" target="saul"/>
+<link source="jesus_christ" target="achaia"/>
+<link source="jesus_christ" target="the_disciples" value="9"/>
+<link source="jesus_christ" target="maranatha"/>
+<link source="jesus_christ" target="philip" value="5"/>
+<link source="jesus_christ" target="david" value="7"/>
+<link source="jesus_christ" target="lazarus" value="3"/>
+<link source="jesus_christ" target="mary" value="3"/>
+<link source="jesus_christ" target="simon" value="9"/>
+<link source="jesus_christ" target="king_solomon" value="2"/>
+<link source="jesus_christ" target="colosse" value="2"/>
+<link source="jesus_christ" target="theophilus"/>
+<link source="jesus_christ" target="epaphras" value="2"/>
+<link source="jesus_christ" target="john" value="7"/>
+<link source="jesus_christ" target="abraham"/>
+<link source="jesus_christ" target="pharisees" value="3"/>
+<link source="jesus_christ" target="paul" value="16"/>
+<link source="jesus_christ" target="moses"/>
+<link source="jesus_christ" target="aeneas"/>
+<link source="jesus_christ" target="andrew" value="3"/>
+<link source="jesus_christ" target="magdalene" value="2"/>
+<link source="jesus_christ" target="illyricum" value="2"/>
+<link source="jesus_christ" target="israel" value="3"/>
+<link source="jesus_christ" target="cephas"/>
+<link source="jesus_christ" target="jacob"/>
+<link source="jesus_christ" target="martha" value="4"/>
+<link source="jesus_christ" target="cana" value="2"/>
+<link source="jesus_christ" target="peter" value="24"/>
+<link source="jesus_christ" target="timotheus" value="3"/>
+<link source="jesus_christ" target="nicodemus" value="2"/>
+<link source="jesus_christ" target="aquila" value="2"/>
+<link source="jesus_christ" target="thomas"/>
+<link source="jesus_christ" target="priscilla" value="2"/>
+<link source="jesus_christ" target="judas" value="3"/>
+<link source="jesus_christ" target="malchus"/>
+<link source="jesus_christ" target="jordan"/>
+<link source="jesus_christ" target="pilate" value="12"/>
+<link source="jesus_christ" target="herod" value="3"/>
+<link source="jesus_christ" target="nathanael"/>
+<link source="jesus_christ" target="apollos" value="2"/>
+<link source="jesus_christ" target="jesus_christ" value="444"/>
+<link source="jesus_christ" target="troas"/>
+<link source="jesus_christ" target="urbane" value="2"/>
+<link source="jesus_christ" target="joseph"/>
+<link source="jesus_christ" target="barabbas" value="2"/>
+<link source="jesus_christ" target="tetrarch"/>
+<link source="tryphosa" target="tryphena"/>
+<link source="janohah" target="melchi"/>
+<link source="sapphira" target="ananiah"/>
+<link source="lot" target="matthias"/>
+<link source="lot" target="sodom"/>
+<link source="bartholomew" target="james" value="2"/>
+<link source="bartholomew" target="thomas" value="3"/>
+<link source="bartholomew" target="john"/>
+<link source="bartholomew" target="matthew" value="3"/>
+<link source="bartholomew" target="philip" value="2"/>
+<link source="bartholomew" target="andrew"/>
+<link source="amos" target="naum"/>
+<link source="philemon" target="paul"/>
+<link source="satan" target="iscariot"/>
+<link source="satan" target="abraham"/>
+<link source="satan" target="peter"/>
+<link source="satan" target="judas"/>
+<link source="satan" target="paul"/>
+<link source="satan" target="satan" value="6"/>
+<link source="satan" target="alexander"/>
+<link source="esli" target="nagge"/></network>
+<network sourceType="Agent" source="Concept" targetType="Unknown" target="Meta-Node 1" id="Concept X Meta-Node 1" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<link source="ephphatha" target="7"/>
+<link source="asa" target="7"/>
+<link source="clement" target="7"/>
+<link source="phanuel" target="7"/>
+<link source="ananiah" target="20"/>
+<link source="samos" target="7"/>
+<link source="theophilus" target="23"/>
+<link source="paulus" target="39"/>
+<link source="blastus" target="7"/>
+<link source="jesse" target="41"/>
+<link source="diotrephes" target="7"/>
+<link source="colosse" target="23"/>
+<link source="sychar" target="41"/>
+<link source="omega" target="7"/>
+<link source="sardis" target="7"/>
+<link source="naam" target="7"/>
+<link source="roman" target="7"/>
+<link source="enoch" target="44"/>
+<link source="boaz" target="17"/>
+<link source="eliud" target="18"/>
+<link source="jambres" target="44"/>
+<link source="cedron" target="7"/>
+<link source="zorobabel" target="18"/>
+<link source="diana" target="7"/>
+<link source="felix" target="13"/>
+<link source="philologus" target="35"/>
+<link source="magog" target="7"/>
+<link source="salim" target="25"/>
+<link source="sodom" target="27"/>
+<link source="simon" target="25"/>
+<link source="tryphena" target="4"/>
+<link source="tertullus" target="7"/>
+<link source="iconium" target="38"/>
+<link source="iscariot" target="41"/>
+<link source="lazarus" target="23"/>
+<link source="addi" target="33"/>
+<link source="maranatha" target="23"/>
+<link source="claudia" target="24"/>
+<link source="philip" target="3"/>
+<link source="barjona" target="25"/>
+<link source="mitylene" target="7"/>
+<link source="israel" target="44"/>
+<link source="cain" target="7"/>
+<link source="demetrius" target="7"/>
+<link source="perga" target="25"/>
+<link source="gallio" target="23"/>
+<link source="benjamin" target="12"/>
+<link source="martha" target="23"/>
+<link source="lydda" target="30"/>
+<link source="barak" target="5"/>
+<link source="cushan" target="38"/>
+<link source="nineveh" target="7"/>
+<link source="epaphras" target="23"/>
+<link source="troas" target="21"/>
+<link source="adam" target="44"/>
+<link source="gad" target="7"/>
+<link source="samothracia" target="7"/>
+<link source="joses" target="37"/>
+<link source="publius" target="7"/>
+<link source="aeneas" target="25"/>
+<link source="tetrarch" target="3"/>
+<link source="jezebel" target="7"/>
+<link source="gamaliel" target="7"/>
+<link source="cyrenius" target="7"/>
+<link source="artemas" target="7"/>
+<link source="moloch" target="7"/>
+<link source="nicolas" target="7"/>
+<link source="apollonia" target="7"/>
+<link source="zelotes" target="41"/>
+<link source="cana" target="23"/>
+<link source="nicodemus" target="23"/>
+<link source="trachonitis" target="7"/>
+<link source="eleazar" target="18"/>
+<link source="gaius" target="38"/>
+<link source="sarah" target="7"/>
+<link source="linus" target="24"/>
+<link source="john" target="25"/>
+<link source="stephanas" target="22"/>
+<link source="raca" target="7"/>
+<link source="menan" target="43"/>
+<link source="abilene" target="3"/>
+<link source="magdala" target="7"/>
+<link source="issachar" target="7"/>
+<link source="chorazin" target="7"/>
+<link source="tertius" target="23"/>
+<link source="amon" target="7"/>
+<link source="jonan" target="41"/>
+<link source="cnidus" target="7"/>
+<link source="gabbatha" target="7"/>
+<link source="bernice" target="11"/>
+<link source="azor" target="18"/>
+<link source="julius" target="11"/>
+<link source="chuza" target="37"/>
+<link source="noe" target="47"/>
+<link source="melchi" target="33"/>
+<link source="mysia" target="21"/>
+<link source="sosthenes" target="7"/>
+<link source="prisca" target="31"/>
+<link source="lois" target="8"/>
+<link source="emmanuel" target="7"/>
+<link source="julia" target="35"/>
+<link source="titus" target="16"/>
+<link source="eubulus" target="7"/>
+<link source="sarepta" target="6"/>
+<link source="paul" target="11"/>
+<link source="jupiter" target="14"/>
+<link source="elias" target="44"/>
+<link source="emmor" target="7"/>
+<link source="king_solomon" target="23"/>
+<link source="fortunatus" target="22"/>
+<link source="bethsaida" target="25"/>
+<link source="abaddon" target="7"/>
+<link source="eunice" target="8"/>
+<link source="candace" target="7"/>
+<link source="euodias" target="2"/>
+<link source="phygellus" target="19"/>
+<link source="eve" target="44"/>
+<link source="rachab" target="17"/>
+<link source="aminadab" target="40"/>
+<link source="festus" target="11"/>
+<link source="chios" target="7"/>
+<link source="abel" target="7"/>
+<link source="nain" target="7"/>
+<link source="aaron" target="37"/>
+<link source="ozias" target="45"/>
+<link source="apelles" target="23"/>
+<link source="adramyttium" target="7"/>
+<link source="secundus" target="38"/>
+<link source="illyricum" target="23"/>
+<link source="neri" target="18"/>
+<link source="epaphroditus" target="7"/>
+<link source="thyatira" target="9"/>
+<link source="silvanus" target="15"/>
+<link source="the_disciples" target="25"/>
+<link source="charran" target="7"/>
+<link source="annas" target="3"/>
+<link source="nagge" target="42"/>
+<link source="aristarchus" target="38"/>
+<link source="parmenas" target="3"/>
+<link source="semei" target="41"/>
+<link source="aretas" target="7"/>
+<link source="antipas" target="7"/>
+<link source="jose" target="48"/>
+<link source="isaac" target="41"/>
+<link source="joatham" target="45"/>
+<link source="aram" target="40"/>
+<link source="barsabas" target="41"/>
+<link source="trophimus" target="15"/>
+<link source="judas" target="41"/>
+<link source="joram" target="45"/>
+<link source="carpus" target="21"/>
+<link source="apphia" target="26"/>
+<link source="samuel" target="41"/>
+<link source="amplias" target="7"/>
+<link source="barjesus" target="7"/>
+<link source="jared" target="32"/>
+<link source="paphos" target="11"/>
+<link source="pontus" target="31"/>
+<link source="gadarenes" target="7"/>
+<link source="demas" target="38"/>
+<link source="armageddon" target="7"/>
+<link source="smyrna" target="9"/>
+<link source="aristobulus" target="7"/>
+<link source="syracuse" target="7"/>
+<link source="phylacteries" target="7"/>
+<link source="augustus" target="7"/>
+<link source="didymus" target="25"/>
+<link source="salamis" target="7"/>
+<link source="melita" target="7"/>
+<link source="crescens" target="16"/>
+<link source="calvary" target="7"/>
+<link source="pamphylia" target="25"/>
+<link source="stephen" target="14"/>
+<link source="madian" target="7"/>
+<link source="syntyche" target="2"/>
+<link source="salmon" target="17"/>
+<link source="tychicus" target="15"/>
+<link source="antipatris" target="11"/>
+<link source="assos" target="11"/>
+<link source="elmodam" target="34"/>
+<link source="gabriel" target="7"/>
+<link source="baal" target="7"/>
+<link source="sergius" target="39"/>
+<link source="dorcas" target="7"/>
+<link source="simeon" target="14"/>
+<link source="nereus" target="35"/>
+<link source="bithynia" target="31"/>
+<link source="saruch" target="36"/>
+<link source="tiberius" target="7"/>
+<link source="mnason" target="7"/>
+<link source="nathanael" target="23"/>
+<link source="phlegon" target="7"/>
+<link source="achaicus" target="7"/>
+<link source="patrobas" target="7"/>
+<link source="damaris" target="28"/>
+<link source="saul" target="14"/>
+<link source="salome" target="37"/>
+<link source="cenchrea" target="31"/>
+<link source="persis" target="7"/>
+<link source="maath" target="7"/>
+<link source="sceva" target="7"/>
+<link source="nimrim" target="14"/>
+<link source="abiathar" target="7"/>
+<link source="rahab" target="7"/>
+<link source="enos" target="46"/>
+<link source="urbane" target="23"/>
+<link source="aceldama" target="7"/>
+<link source="drusilla" target="13"/>
+<link source="barabbas" target="23"/>
+<link source="azotus" target="3"/>
+<link source="barachias" target="7"/>
+<link source="marcus" target="38"/>
+<link source="remphan" target="7"/>
+<link source="eli" target="7"/>
+<link source="prochorus" target="3"/>
+<link source="onesiphorus" target="31"/>
+<link source="nicanor" target="3"/>
+<link source="tyrannus" target="25"/>
+<link source="achim" target="18"/>
+<link source="stachys" target="23"/>
+<link source="areopagus" target="7"/>
+<link source="maleleel" target="32"/>
+<link source="ruth" target="17"/>
+<link source="nymphas" target="7"/>
+<link source="manaen" target="3"/>
+<link source="josaphat" target="45"/>
+<link source="arphaxad" target="46"/>
+<link source="asyncritus" target="7"/>
+<link source="sadducees" target="44"/>
+<link source="janohah" target="33"/>
+<link source="pallu" target="36"/>
+<link source="bethphage" target="7"/>
+<link source="jairus" target="7"/>
+<link source="matthias" target="27"/>
+<link source="jordan" target="25"/>
+<link source="cainan" target="46"/>
+<link source="daniel" target="7"/>
+<link source="achaia" target="23"/>
+<link source="erastus" target="15"/>
+<link source="philetus" target="7"/>
+<link source="herod" target="3"/>
+<link source="timon" target="3"/>
+<link source="sabaoth" target="44"/>
+<link source="seleucia" target="7"/>
+<link source="priscilla" target="31"/>
+<link source="rhoda" target="25"/>
+<link source="heli" target="41"/>
+<link source="sidon" target="6"/>
+<link source="zenas" target="25"/>
+<link source="tabitha" target="7"/>
+<link source="cosam" target="34"/>
+<link source="thomas" target="25"/>
+<link source="eutychus" target="7"/>
+<link source="esrom" target="40"/>
+<link source="joseph" target="41"/>
+<link source="lucas" target="38"/>
+<link source="mattathias" target="41"/>
+<link source="andronicus" target="1"/>
+<link source="junia" target="1"/>
+<link source="ragau" target="36"/>
+<link source="cornelius" target="7"/>
+<link source="mary" target="37"/>
+<link source="belial" target="7"/>
+<link source="berea" target="10"/>
+<link source="seth" target="44"/>
+<link source="bethabara" target="25"/>
+<link source="hermogenes" target="19"/>
+<link source="aenon" target="25"/>
+<link source="zadok" target="18"/>
+<link source="zebedee" target="25"/>
+<link source="hagar" target="7"/>
+<link source="rhesa" target="18"/>
+<link source="boanerges" target="7"/>
+<link source="archelaus" target="44"/>
+<link source="eliakim" target="18"/>
+<link source="susanna" target="7"/>
+<link source="phoenicia" target="7"/>
+<link source="abraham" target="41"/>
+<link source="achaz" target="45"/>
+<link source="hebrews" target="12"/>
+<link source="pudens" target="24"/>
+<link source="quartus" target="7"/>
+<link source="esaias" target="44"/>
+<link source="eliezer" target="48"/>
+<link source="joel" target="7"/>
+<link source="hen" target="7"/>
+<link source="job" target="7"/>
+<link source="emmaus" target="7"/>
+<link source="sion" target="7"/>
+<link source="mattatha" target="43"/>
+<link source="dalmanutha" target="44"/>
+<link source="peter" target="25"/>
+<link source="lysias" target="13"/>
+<link source="pergamos" target="9"/>
+<link source="judah" target="44"/>
+<link source="andrew" target="25"/>
+<link source="nachor" target="7"/>
+<link source="gennesaret" target="7"/>
+<link source="rhegium" target="7"/>
+<link source="abba" target="7"/>
+<link source="anna" target="7"/>
+<link source="joanna" target="37"/>
+<link source="nathan" target="41"/>
+<link source="lystra" target="38"/>
+<link source="herodion" target="7"/>
+<link source="pharisees" target="44"/>
+<link source="pilate" target="23"/>
+<link source="lasea" target="7"/>
+<link source="pisidia" target="7"/>
+<link source="alexander" target="41"/>
+<link source="michael" target="7"/>
+<link source="david" target="41"/>
+<link source="salathiel" target="18"/>
+<link source="jannes" target="44"/>
+<link source="philemon" target="11"/>
+<link source="james" target="25"/>
+<link source="alleluia" target="7"/>
+<link source="apollyon" target="7"/>
+<link source="obed" target="17"/>
+<link source="moses" target="44"/>
+<link source="heber" target="7"/>
+<link source="myra" target="7"/>
+<link source="balaam" target="7"/>
+<link source="narcissus" target="7"/>
+<link source="magdalene" target="37"/>
+<link source="luke" target="38"/>
+<link source="samson" target="5"/>
+<link source="mammon" target="7"/>
+<link source="abiud" target="18"/>
+<link source="chloe" target="7"/>
+<link source="mark" target="14"/>
+<link source="matthew" target="25"/>
+<link source="silas" target="11"/>
+<link source="agrippa" target="11"/>
+<link source="attalia" target="7"/>
+<link source="cephas" target="25"/>
+<link source="levi" target="14"/>
+<link source="sem" target="47"/>
+<link source="melea" target="18"/>
+<link source="gergesenes" target="7"/>
+<link source="ephraim" target="7"/>
+<link source="anathema" target="23"/>
+<link source="cilicia" target="25"/>
+<link source="theudas" target="7"/>
+<link source="archippus" target="26"/>
+<link source="sopater" target="10"/>
+<link source="lucius" target="15"/>
+<link source="aquila" target="31"/>
+<link source="tiberias" target="7"/>
+<link source="beelzebub" target="7"/>
+<link source="olympas" target="7"/>
+<link source="miletum" target="15"/>
+<link source="dalmatia" target="16"/>
+<link source="saron" target="30"/>
+<link source="antichrist" target="7"/>
+<link source="coos" target="7"/>
+<link source="cleophas" target="37"/>
+<link source="pathrusim" target="7"/>
+<link source="jonas" target="25"/>
+<link source="matthan" target="18"/>
+<link source="timotheus" target="15"/>
+<link source="mercurius" target="7"/>
+<link source="rachel" target="7"/>
+<link source="pharaoh" target="41"/>
+<link source="esau" target="41"/>
+<link source="hosanna" target="41"/>
+<link source="nicolaitanes" target="7"/>
+<link source="canaan" target="7"/>
+<link source="noah" target="7"/>
+<link source="claudius" target="13"/>
+<link source="lysanias" target="3"/>
+<link source="barnabas" target="14"/>
+<link source="elisabeth" target="37"/>
+<link source="jacob" target="41"/>
+<link source="nephthalim" target="7"/>
+<link source="elymas" target="7"/>
+<link source="jorim" target="7"/>
+<link source="jason" target="15"/>
+<link source="justus" target="27"/>
+<link source="agabus" target="7"/>
+<link source="lamech" target="7"/>
+<link source="apollos" target="25"/>
+<link source="derbe" target="38"/>
+<link source="naum" target="29"/>
+<link source="onesimus" target="7"/>
+<link source="malchus" target="25"/>
+<link source="jesus_christ" target="23"/>
+<link source="tryphosa" target="4"/>
+<link source="hermas" target="7"/>
+<link source="sapphira" target="20"/>
+<link source="gog" target="7"/>
+<link source="lot" target="27"/>
+<link source="bartholomew" target="25"/>
+<link source="amos" target="29"/>
+<link source="rufus" target="41"/>
+<link source="dionysius" target="28"/>
+<link source="satan" target="41"/>
+<link source="puteoli" target="7"/>
+<link source="reuben" target="7"/>
+<link source="esli" target="42"/></network>
+<network sourceType="Unknown" source="Meta-Node 1" targetType="Unknown" target="Meta-Node 1" id="Meta-Node grouping 1" isDirected="true" allowSelfLoops="true" isBinary="false" dynetmlUndirectedCompressed="false">
+<link source="31" target="23" value="2"/>
+<link source="31" target="31" value="16"/>
+<link source="28" target="28" value="2"/>
+<link source="7" target="7" value="4"/>
+<link source="5" target="5" value="2"/>
+<link source="12" target="41"/>
+<link source="12" target="11"/>
+<link source="12" target="12" value="2"/>
+<link source="27" target="27" value="6"/>
+<link source="29" target="29" value="2"/>
+<link source="46" target="46" value="4"/>
+<link source="32" target="32" value="2"/>
+<link source="14" target="23"/>
+<link source="14" target="38"/>
+<link source="14" target="11" value="4"/>
+<link source="14" target="14" value="17"/>
+<link source="14" target="25" value="3"/>
+<link source="14" target="37"/>
+<link source="18" target="41" value="2"/>
+<link source="18" target="18" value="37"/>
+<link source="37" target="23" value="3"/>
+<link source="37" target="41" value="4"/>
+<link source="37" target="14"/>
+<link source="37" target="25" value="8"/>
+<link source="37" target="37" value="21"/>
+<link source="39" target="39" value="2"/>
+<link source="19" target="19" value="2"/>
+<link source="16" target="11"/>
+<link source="16" target="16" value="6"/>
+<link source="21" target="23"/>
+<link source="21" target="21" value="4"/>
+<link source="24" target="24" value="6"/>
+<link source="13" target="13" value="8"/>
+<link source="13" target="11"/>
+<link source="10" target="10" value="2"/>
+<link source="10" target="11"/>
+<link source="44" target="23" value="4"/>
+<link source="44" target="41" value="3"/>
+<link source="44" target="3"/>
+<link source="44" target="11"/>
+<link source="44" target="25" value="3"/>
+<link source="44" target="44" value="33"/>
+<link source="22" target="22" value="2"/>
+<link source="2" target="2" value="2"/>
+<link source="9" target="9" value="6"/>
+<link source="34" target="34" value="2"/>
+<link source="25" target="23" value="12"/>
+<link source="25" target="41" value="7"/>
+<link source="25" target="38" value="2"/>
+<link source="25" target="3" value="6"/>
+<link source="25" target="11" value="4"/>
+<link source="25" target="14" value="3"/>
+<link source="25" target="25" value="110"/>
+<link source="25" target="37" value="8"/>
+<link source="25" target="44" value="3"/>
+<link source="6" target="6" value="2"/>
+<link source="35" target="35" value="6"/>
+<link source="38" target="38" value="32"/>
+<link source="38" target="14"/>
+<link source="38" target="25" value="2"/>
+<link source="43" target="43" value="2"/>
+<link source="3" target="23" value="5"/>
+<link source="3" target="3" value="43"/>
+<link source="3" target="25" value="6"/>
+<link source="3" target="15"/>
+<link source="3" target="44"/>
+<link source="30" target="30" value="2"/>
+<link source="48" target="48" value="2"/>
+<link source="15" target="23"/>
+<link source="15" target="3"/>
+<link source="15" target="11" value="3"/>
+<link source="15" target="15" value="20"/>
+<link source="8" target="8" value="2"/>
+<link source="40" target="40" value="6"/>
+<link source="45" target="45" value="14"/>
+<link source="20" target="20" value="2"/>
+<link source="17" target="17" value="14"/>
+<link source="36" target="36" value="4"/>
+<link source="47" target="47" value="2"/>
+<link source="1" target="1" value="2"/>
+<link source="42" target="42" value="2"/>
+<link source="11" target="23"/>
+<link source="11" target="41" value="3"/>
+<link source="11" target="10"/>
+<link source="11" target="13"/>
+<link source="11" target="11" value="20"/>
+<link source="11" target="14" value="4"/>
+<link source="11" target="12"/>
+<link source="11" target="25" value="4"/>
+<link source="11" target="15" value="3"/>
+<link source="11" target="44"/>
+<link source="11" target="16"/>
+<link source="26" target="26" value="2"/>
+<link source="4" target="4" value="2"/>
+<link source="41" target="23" value="6"/>
+<link source="41" target="41" value="62"/>
+<link source="41" target="18" value="2"/>
+<link source="41" target="11" value="3"/>
+<link source="41" target="12"/>
+<link source="41" target="25" value="7"/>
+<link source="41" target="37" value="4"/>
+<link source="41" target="44" value="3"/>
+<link source="23" target="23" value="49"/>
+<link source="23" target="41" value="6"/>
+<link source="23" target="31" value="2"/>
+<link source="23" target="3" value="5"/>
+<link source="23" target="11"/>
+<link source="23" target="14"/>
+<link source="23" target="25" value="12"/>
+<link source="23" target="21"/>
+<link source="23" target="37" value="3"/>
+<link source="23" target="15"/>
+<link source="23" target="44" value="4"/>
+<link source="33" target="33" value="4"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+
